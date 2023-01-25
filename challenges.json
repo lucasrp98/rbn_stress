@@ -2,22 +2,22 @@
     {
         "type": "undefined",
         "description": "Desafio 1",
-        "amount": 80
+        "amount": 40
     },
     {
         "type": "undefined",
         "description": "Desafio 2",
-        "amount": 80
+        "amount": 50
     },
     {
         "type": "undefined",
         "description": "Desafio 3",
-        "amount": 80
+        "amount": 60
     },
     {
         "type": "undefined",
         "description": "Desafio 4",
-        "amount": 80
+        "amount": 70
     },
     {
         "type": "undefined",
@@ -27,6 +27,6 @@
     {
         "type": "undefined",
         "description": "Desafio 6",
-        "amount": 80
+        "amount": 90
     }
 ]
