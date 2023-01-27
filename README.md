@@ -41,6 +41,19 @@ As seguintes ferramentas foram usadas na construção do projeto:
 	🚧  React Select 🚀 Concluído ...  🚧
 </h4>
 
+### Screenshots
+
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./icons/Tela-Inicial.png" width="1000" height="1000"/>
+</h1>
+
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./icons/Novo-Desafio.png" width="1000" height="1000"/>
+</h1>
+
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./icons/Proximo-Level.png" width="1000" height="1000"/>
+</h1>
 Feito de ❤️ por Lucas Ribeiro👋🏽 Entre em contato!
 
 <h1 align="center">
